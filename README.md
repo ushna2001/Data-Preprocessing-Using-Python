@@ -18,10 +18,11 @@ Patch Scanning: Scanned and extracted patches from the images to create smaller,
 Data Augmentation: Increased the size of the dataset by applying augmentation techniques such as rotation, scaling, and flipping, which helped improve model generalization.
 
 3. Data Cleaning
-4. 
+
 Removed irrelevant or empty images to ensure the dataset contained only useful information. This process significantly improved the quality and utility of the data.
-5. Model Training and Optimization
-6. 
+
+4. Model Training and Optimization
+
 A pre-existing model was provided by a mentor. The model architecture was explained, and the dataset was trained using this model.
 Further optimization was performed to fine-tune the model, improving its accuracy and performance. This involved adjusting parameters and refining the training process to achieve the best possible results.
 
