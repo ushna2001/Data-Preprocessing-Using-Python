@@ -4,7 +4,7 @@ This project was completed during an internship at the Neurocomputation Lab, NCA
 
 Project Steps
 1. Dataset Preprocessing
-Segmentation: Segmented the relevant parts of the images to focus on the essential data while discarding unnecessary areas.
+Segmentation: Segmented the relevant parts of the images to focus on the essential data while discarding unnecessary areas.  
 Filtering: Applied filtering techniques to improve image quality and remove noise.
 White Pixel Padding: Added padding to standardize the size of all images, ensuring uniformity across the dataset.
 Patch Scanning: Scanned and extracted patches from the images to create smaller, more manageable datasets for training.
